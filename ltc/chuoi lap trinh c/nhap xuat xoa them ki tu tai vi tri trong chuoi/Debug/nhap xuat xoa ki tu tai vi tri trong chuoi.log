@@ -1,0 +1,3 @@
+﻿  nhap xuat xoa ki tu tai vi tri trong chuoi.cpp
+G:\ltc\chuoi lap trinh c\nhap xuat xoa them ki tu tai vi tri trong chuoi\nhap xuat xoa ki tu tai vi tri trong chuoi.cpp(23,2): error C3861: 'gets': identifier not found
+G:\ltc\chuoi lap trinh c\nhap xuat xoa them ki tu tai vi tri trong chuoi\nhap xuat xoa ki tu tai vi tri trong chuoi.cpp(29,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
