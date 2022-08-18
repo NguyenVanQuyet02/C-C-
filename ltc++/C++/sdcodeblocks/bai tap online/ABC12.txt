@@ -1,0 +1,5 @@
+
+mang la
+	-2	5	6	3	-4	6	-8	7
+mang sau khi sap xep giam dan la
+	7	6	6	5	3	-2	-4	-8

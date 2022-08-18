@@ -1,0 +1,3 @@
+﻿  chen dau mang.cpp
+G:\lt c++\mang 1 chieu cpp\chen dau mang\chen dau mang.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  chen dau mang.vcxproj -> G:\lt c++\mang 1 chieu cpp\chen dau mang\Debug\chen dau mang.exe

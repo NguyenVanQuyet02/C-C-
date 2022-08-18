@@ -1,0 +1,3 @@
+﻿  tbc so co chu so dau le.cpp
+G:\lt c++\ham cpp\tbc so co chu so dau le\tbc so co chu so dau le.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  tbc so co chu so dau le.vcxproj -> G:\lt c++\ham cpp\tbc so co chu so dau le\Debug\tbc so co chu so dau le.exe

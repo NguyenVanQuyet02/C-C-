@@ -1,0 +1,3 @@
+﻿  xoa vt giai phong o nho.cpp
+G:\lt c++\ham cpp\xoa vt giai phong o nho\xoa vt giai phong o nho.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  xoa vt giai phong o nho.vcxproj -> G:\lt c++\ham cpp\xoa vt giai phong o nho\Debug\xoa vt giai phong o nho.exe

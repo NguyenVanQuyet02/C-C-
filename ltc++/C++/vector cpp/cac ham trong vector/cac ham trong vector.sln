@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cac ham trong vector", "cac ham trong vector.vcxproj", "{5509E384-E9C6-47E6-85E7-3CC890EC2634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5509E384-E9C6-47E6-85E7-3CC890EC2634}.Debug|x64.ActiveCfg = Debug|x64
+		{5509E384-E9C6-47E6-85E7-3CC890EC2634}.Debug|x64.Build.0 = Debug|x64
+		{5509E384-E9C6-47E6-85E7-3CC890EC2634}.Debug|x86.ActiveCfg = Debug|Win32
+		{5509E384-E9C6-47E6-85E7-3CC890EC2634}.Debug|x86.Build.0 = Debug|Win32
+		{5509E384-E9C6-47E6-85E7-3CC890EC2634}.Release|x64.ActiveCfg = Release|x64
+		{5509E384-E9C6-47E6-85E7-3CC890EC2634}.Release|x64.Build.0 = Release|x64
+		{5509E384-E9C6-47E6-85E7-3CC890EC2634}.Release|x86.ActiveCfg = Release|Win32
+		{5509E384-E9C6-47E6-85E7-3CC890EC2634}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B9061C4-BA93-4936-8FD0-62C22EFF640D}
+	EndGlobalSection
+EndGlobal
